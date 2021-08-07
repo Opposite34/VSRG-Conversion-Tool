@@ -1,5 +1,5 @@
 # VSRG Conversion Tool
-A converter for many VSRG formats made with reamberpy.
+A converter for many VSRG formats made with [reamberPy](https://github.com/Eve-ning/reamberPy).
 
 ## NOTICE
 - I couldn't check the BMS file, as do not have the means to do so currently.
