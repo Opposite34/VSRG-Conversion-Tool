@@ -1,4 +1,4 @@
-# VSRG Converter
+# VSRG Conversion Tool
 A converter for many VSRG formats made with reamberpy.
 
 ## NOTICE
