@@ -1,0 +1,9 @@
+# VS Code
+.vscode/
+
+# Python Related Files
+__pycache__/
+venv/
+
+# Test Files
+test/
