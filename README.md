@@ -29,3 +29,4 @@ Then for now, you can use `main.py` to convert between file formats
 ## TODO
 - GUI
 - Fix Quaver conversion
+- zip file variants (.osz, .qp) support
