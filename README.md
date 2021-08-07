@@ -23,8 +23,8 @@ Currently supported formats are:
 ## How to install
 Please have Python 3.7 or later installed
 
-After that, you can install all the requirements via `pip install -r requirements.txt`
-For now, you can use `main.py` to convert between file formats
+After that, you can install all the requirements via `pip install -r requirements.txt`.
+Then for now, you can use `main.py` to convert between file formats
 
 ## TODO
 - GUI
